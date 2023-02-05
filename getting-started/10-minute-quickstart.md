@@ -3,7 +3,7 @@ description: >-
   Počnite da kreirate svoj nalog, restoran i podešavate svoje menije. Uradite jednu testnu narudzbu kako bi videli proces upravljanja narudžbinama.
 ---
 
-# 10-Minuta Brzi Setup
+# 10-Minuta Brzi Start
 
 {% embed url="https://youtu.be/Cd171XS0IGI" %}
 Quickstart video tutorial
