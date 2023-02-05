@@ -4,5 +4,5 @@ description: >-
   setting up your restaurant, customizing your settings and managing orders.
 ---
 
-# Getting Started
+# Klikni za prvi korak
 
