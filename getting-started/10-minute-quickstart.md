@@ -1,7 +1,6 @@
 ---
 description: >-
-  Get started creating your account, restaurant and setting up your menus. Place
-  a test order and see the order management process.
+  Počnite da kreirate svoj nalog, restoran i podešavate svoje menije. Uradite jednu testnu narudzbu kako bi videli proces upravljanja narudžbinama.
 ---
 
 # 10-Minute Quickstart
