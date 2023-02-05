@@ -3,15 +3,15 @@ description: >-
   Počnite da kreirate svoj nalog, restoran i podešavate svoje menije. Uradite jednu testnu narudzbu kako bi videli proces upravljanja narudžbinama.
 ---
 
-# 10-Minuta Brzi Start
+# 10 minuta brzi start
 
 {% embed url="https://youtu.be/Cd171XS0IGI" %}
 Quickstart video tutorial
 {% endembed %}
 
-## Quick-start Steps
+## Brzi start koraci
 
-1. Visit https://orderingninja.com and sign up for an account
+1. POseti https://orderingninja.com and sign up for an account
 2. Once you are at the admin dashboard, press "Create New Restaurant"
 3. Fill out your restaurant details and create the restaurant
 4. Click on your new restaurant to see the restaurant dashboard
