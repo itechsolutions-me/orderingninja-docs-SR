@@ -1,7 +1,6 @@
 ---
 description: >-
-  This section will take you through the process of creating your account,
-  setting up your restaurant, customizing your settings and managing orders.
+  Ovaj odeljak će vas provesti kroz proces kreiranja vašeg naloga, podešavanje vašeg restorana, prilagođavanje vaših podešavanja i upravljanje porudžbinama
 ---
 
 # Klikni za prvi korak
